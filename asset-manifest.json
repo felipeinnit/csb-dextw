@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://felipeinnit.github.io/csb-dextw/static/js/main.eea5ff6b.chunk.js",
+    "main.js.map": "https://felipeinnit.github.io/csb-dextw/static/js/main.eea5ff6b.chunk.js.map",
+    "runtime-main.js": "https://felipeinnit.github.io/csb-dextw/static/js/runtime-main.627211c7.js",
+    "runtime-main.js.map": "https://felipeinnit.github.io/csb-dextw/static/js/runtime-main.627211c7.js.map",
+    "static/js/2.235e61d4.chunk.js": "https://felipeinnit.github.io/csb-dextw/static/js/2.235e61d4.chunk.js",
+    "static/js/2.235e61d4.chunk.js.map": "https://felipeinnit.github.io/csb-dextw/static/js/2.235e61d4.chunk.js.map",
+    "index.html": "https://felipeinnit.github.io/csb-dextw/index.html",
+    "precache-manifest.e89a90146b5bad60d951663b433106be.js": "https://felipeinnit.github.io/csb-dextw/precache-manifest.e89a90146b5bad60d951663b433106be.js",
+    "service-worker.js": "https://felipeinnit.github.io/csb-dextw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.627211c7.js",
+    "static/js/2.235e61d4.chunk.js",
+    "static/js/main.eea5ff6b.chunk.js"
+  ]
+}
